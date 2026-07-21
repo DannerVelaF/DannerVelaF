@@ -23,7 +23,7 @@
 ## 🌲 SOBRE MÍ
 
 <p align="center">
-  <img src="https://github.com/ViratiAkiraNandhanReddy/pixel-art-readme-gifs/releases/download/v1.0.0/sqre/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8.gif" width="300" style="image-rendering: pixelated;">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/sqre/01596d7e-f470-412c-9f43-c08126fb7dc0.gif" width="240" style="image-rendering: pixelated;">
 </p>
 
 ```yaml
@@ -51,8 +51,6 @@ personal:
 ---
 
 ## 🎯 EXPERIENCIA Y ENFOQUE
-
-<img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" width="100%" style="image-rendering: pixelated;">
 
 Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y análisis de datos**. He construido soluciones empresariales que integran:
 
@@ -136,6 +134,8 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 ---
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/vtcl/65c459ee-97cd-4366-a32c-f8222fa81c73.gif" width="280" style="image-rendering: pixelated;">
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=DannerVelaF&style=for-the-badge&color=22C55E" alt="Visitas">
   <br><br>
   <i>"Entre el código y los datos, construyo soluciones."</i>
