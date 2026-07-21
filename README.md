@@ -1,240 +1,130 @@
 <div align="center">
 
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 800 160">
-  <rect width="800" height="160" fill="#0a2e1a" rx="12"/>
-  <rect x="1" y="1" width="798" height="158" fill="none" stroke="#00ff88" stroke-width="2" rx="11" opacity="0.3"/>
-  <text x="30" y="50" font-family="'Courier New',monospace" font-size="16" fill="#00ff88" opacity="0.8">$ whoami</text>
-  <text x="30" y="95" font-family="'Courier New',monospace" font-size="36" font-weight="bold" fill="#ffffff">Danner</text>
-  <text x="360" y="95" font-family="'Courier New',monospace" font-size="18" fill="#00ff88">
-    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
-    █
-  </text>
-  <text x="30" y="135" font-family="'Courier New',monospace" font-size="16" fill="#4ade80">Fullstack Developer &amp; Data Analytics</text>
-</svg>
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e1a,50:1a4a2a,100:2d6a3f&height=170&section=header&text=DANNER&fontSize=58&fontColor=00ff88&fontAlignY=38&desc=Fullstack%20Developer%20%C3%97%20Data%20Analytics&descAlignY=58&descSize=17&descColor=8fd6ab&animation=fadeIn" width="100%"/>
+
+<img src="https://pixel-profile.vercel.app/api/avatar?username=DannerVelaF&theme=fuji" width="120" alt="pixel avatar"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=580&lines=Backend%3A+Java+%2F+Spring+Boot+%2F+Kotlin;Frontend%3A+React+%2F+Tailwind+%2F+Laravel;Data%3A+Python+%2B+pandas+%2B+Power+BI;Actualmente+construyendo+el+ERP+de+Polybags" alt="typing-svg"/>
 
 </div>
 
-```text
+<br/>
 
-```
+## Sobre mí
 
-<div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&screen_effect=false&theme=fuji&pixelate_avatar=true&include_all_commits=true&hide=rank,stars,issues,prs,contributions" width="100" alt="pixel avatar">
-</div>
+- 🏗️ Desarrollo el **ERP de Polybags** — módulos de logística, compras, consumos y reportes en producción.
+- 🧩 Perfil híbrido: backend en **Java/Spring Boot** en el trabajo, **React + Tailwind + Laravel** en proyectos propios.
+- 📊 Convierto datos operativos en decisiones: dashboards con **Power BI**, análisis con **pandas/numpy/matplotlib**.
+- 🔮 Enfocado en **predicción de demanda** — de reportar el pasado a anticipar el siguiente pedido de compra.
 
----
+<br/>
+
+## Polybags — Sistema ERP
 
 <div align="center">
 
-### ▸ ABOUT
+<img src="https://img.shields.io/badge/🏆_ERP_POLYBAGS-00ff88?style=for-the-badge&labelColor=0a2e1a&color=1a4a2a"/>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><code>🔷 NOW</code></td>
-    <td width="75%">Ingeniero de software en <b>Polypacks</b> — ERP logístico con predicción de demanda, compras y reportes</td>
-  </tr>
-  <tr>
-    <td align="center"><code>🔷 STACK</code></td>
-    <td>Java+Spring Boot en producción · React+Laravel en proyectos · Python+Power BI para datos</td>
-  </tr>
-  <tr>
-    <td align="center"><code>🔷 DATA</code></td>
-    <td>pandas · numpy · matplotlib · dashboards analíticos · SQL complejo</td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Log%C3%ADstica-0a2e1a?style=for-the-badge&logo=cargo&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Compras-0a2e1a?style=for-the-badge&logo=cashapp&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Predicci%C3%B3n_de_demanda-0a2e1a?style=for-the-badge&logo=chartdotjs&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/Reportes-0a2e1a?style=for-the-badge&logo=googlesheets&logoColor=00ff88"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-### ▸ POLYBAPS ERP
-
-<img src="https://media.giphy.com/media/RU5b41May8iOB9T4Qb/giphy.gif" width="100%" height="60" style="border-radius:8px;object-fit:cover">
-
-<br>
-
-|  |  |  |  |
-|---|---|---|---|
-| <b>LOGÍSTICA</b> | <b>COMPRAS</b> | <b>PREDICCIÓN</b> | <b>REPORTES</b> |
-| Flujo producción→MP | Órdenes Odoo API | Demanda semanal | Power BI + SQL |
-<br>
-
-</div>
-
----
-
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4" viewBox="0 0 800 4">
-  <rect width="800" height="4" fill="url(#g)"/>
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0a2e1a"/>
-      <stop offset="50%" stop-color="#00ff88"/>
-      <stop offset="100%" stop-color="#0a2e1a"/>
-    </linearGradient>
-  </defs>
-</svg>
-```
-
-### TECH STACK
+## Tech Stack
 
 <table align="center">
-  <tr>
-    <th align="center"><code>FRONTEND</code></th>
-    <th align="center"><code>BACKEND</code></th>
-    <th align="center"><code>DATA</code></th>
-    <th align="center"><code>TOOLS</code></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28"><br>
-      <sub>React</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28"><br>
-      <sub>Java</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28"><br>
-      <sub>Python</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28"><br>
-      <sub>Git</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28"><br>
-      <sub>Tailwind</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="28"><br>
-      <sub>Spring Boot</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="28"><br>
-      <sub>pandas</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28"><br>
-      <sub>SQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="28"><br>
-      <sub>Laravel</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="28"><br>
-      <sub>Kotlin</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="28"><br>
-      <sub>NumPy</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="28"><br>
-      <sub>Bash</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="28"><br>
-      <sub>Angular</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="28"><br>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="28"><br>
-      <sub>matplotlib</sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28"><br>
-      <sub>Linux</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%"><b>Backend</b><br/><br/>
+<img src="https://img.shields.io/badge/Java-1a4a2a?style=for-the-badge&logo=openjdk&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-1a4a2a?style=for-the-badge&logo=springboot&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/Kotlin-1a4a2a?style=for-the-badge&logo=kotlin&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/PrimeFaces-1a4a2a?style=for-the-badge&logo=primefaces&logoColor=00ff88"/>
+</td>
+<td align="center" width="25%"><b>Frontend</b><br/><br/>
+<img src="https://img.shields.io/badge/React-1a4a2a?style=for-the-badge&logo=react&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a4a2a?style=for-the-badge&logo=tailwindcss&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/Laravel-1a4a2a?style=for-the-badge&logo=laravel&logoColor=00ff88"/>
+</td>
+<td align="center" width="25%"><b>Data</b><br/><br/>
+<img src="https://img.shields.io/badge/Python-1a4a2a?style=for-the-badge&logo=python&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/pandas-1a4a2a?style=for-the-badge&logo=pandas&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/NumPy-1a4a2a?style=for-the-badge&logo=numpy&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/Power_BI-1a4a2a?style=for-the-badge&logo=powerbi&logoColor=00ff88"/>
+</td>
+<td align="center" width="25%"><b>Tools</b><br/><br/>
+<img src="https://img.shields.io/badge/MySQL-1a4a2a?style=for-the-badge&logo=mysql&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/Git-1a4a2a?style=for-the-badge&logo=git&logoColor=00ff88"/><br/>
+<img src="https://img.shields.io/badge/Docker-1a4a2a?style=for-the-badge&logo=docker&logoColor=00ff88"/>
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### STATS
+## GitHub Stats
 
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&screen_effect=true&theme=fuji&dithering=true&background=radial-gradient(circle+at+50%+50%,+%2300ff88+0%,+%230a2e1a+100%)&pixelate_avatar=true&include_all_commits=true" width="100%" alt="pixel stats">
-</p>
+<div align="center">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&theme=fuji&screen_effect=true&dithering=true&background=radial-gradient(circle+at+50%+50%,+%2300ff88+0%,+%230a2e1a+100%)" width="480"/>
+</div>
 
----
+<br/>
 
-### PROJECTS
+## Now Playing
+
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0a2e1a&interchange=true&eq_color=00ff88" width="380"/>
+</div>
+
+<br/>
+
+## Proyectos destacados
 
 <table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/DannerVelaF/PolyApp">PolyApp</a></b><br>
-      <sub>Python · Predicción demanda logística</sub>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/DannerVelaF/NexoPyme-Backend">NexoPyme</a></b><br>
-      <sub>Laravel + React · Gestión PYME</sub>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/DannerVelaF/Analisis_Ventas">Analisis Ventas</a></b><br>
-      <sub>Python + Power BI · Dashboard ventas</sub>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+**📦 Dashboard de Costos de Importación**
+<br/>
+<img src="https://img.shields.io/badge/React-0a2e1a?style=flat-square&logo=react&logoColor=00ff88"/> <img src="https://img.shields.io/badge/Chart.js-0a2e1a?style=flat-square&logo=chartdotjs&logoColor=00ff88"/>
+<br/><br/>
+Visualización de gastos vinculados, prorrateo y tipo de cambio para operaciones de importación.
+
+</td>
+<td width="33%" valign="top">
+
+**🏪 NexoPyme**
+<br/>
+<img src="https://img.shields.io/badge/React-0a2e1a?style=flat-square&logo=react&logoColor=00ff88"/> <img src="https://img.shields.io/badge/Vite-0a2e1a?style=flat-square&logo=vite&logoColor=00ff88"/> <img src="https://img.shields.io/badge/Tailwind-0a2e1a?style=flat-square&logo=tailwindcss&logoColor=00ff88"/>
+<br/><br/>
+SaaS multi-tenant para pymes peruanas, con sistema de diseño propio y panel administrativo.
+
+</td>
+<td width="33%" valign="top">
+
+**🖥️ AdminService**
+<br/>
+<img src="https://img.shields.io/badge/PowerShell-0a2e1a?style=flat-square&logo=powershell&logoColor=00ff88"/> <img src="https://img.shields.io/badge/WinForms-0a2e1a?style=flat-square&logo=windows&logoColor=00ff88"/>
+<br/><br/>
+Herramienta de control de acceso a red y pool de IPs con interfaz nativa Win32.
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="30" viewBox="0 0 200 30">
-  <rect x="80" y="10" width="8" height="12" fill="#00ff88" opacity="0.4">
-    <animate attributeName="height" values="12;8;16;10;12" dur="0.6s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="10;14;6;12;10" dur="0.6s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="92" y="6" width="8" height="20" fill="#00ff88" opacity="0.6">
-    <animate attributeName="height" values="20;14;10;18;20" dur="0.5s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="6;10;14;8;6" dur="0.5s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="104" y="12" width="8" height="10" fill="#00ff88" opacity="0.8">
-    <animate attributeName="height" values="10;16;8;14;10" dur="0.7s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="12;6;14;8;12" dur="0.7s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="116" y="8" width="8" height="16" fill="#00ff88" opacity="0.5">
-    <animate attributeName="height" values="16;10;14;6;16" dur="0.45s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="8;14;10;18;8" dur="0.45s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="128" y="14" width="8" height="8" fill="#00ff88" opacity="0.7">
-    <animate attributeName="height" values="8;12;6;14;8" dur="0.55s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="14;10;16;8;14" dur="0.55s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-```
+## Contacto
 
-### CONTACT
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/DannerVelaF">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" alt="linkedin">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dannervelaf@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="28" alt="email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/DannerVelaF">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="28" alt="github">
-  </a>
-</p>
+<a href="https://linkedin.com/in/DannerVelaF"><img src="https://img.shields.io/badge/LinkedIn-0a2e1a?style=for-the-badge&logo=linkedin&logoColor=00ff88"/></a>
+<a href="mailto:dannervelaf@gmail.com"><img src="https://img.shields.io/badge/Email-0a2e1a?style=for-the-badge&logo=gmail&logoColor=00ff88"/></a>
+<a href="https://github.com/DannerVelaF"><img src="https://img.shields.io/badge/GitHub-0a2e1a?style=for-the-badge&logo=github&logoColor=00ff88"/></a>
 
-<p align="center">
-  <sub><code>🌱 0a2e1a · #00ff88 · 8-bit · nature · data</code></sub>
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a3f,50:1a4a2a,100:0a2e1a&height=100&section=footer" width="100%"/>
