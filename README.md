@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&screen_effect=true&theme=fuji&pixelate_avatar=true&include_all_commits=true" alt="GitHub Stats" width="480">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&theme=fuji&pixelate_avatar=true&include_all_commits=true" alt="GitHub Stats" width="480">
 </p>
 
 <br>
@@ -112,17 +112,8 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 
 ## 📊 ESTADÍSTICAS
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&screen_effect=true&theme=blue_chill&pixelate_avatar=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&theme=summer&pixelate_avatar=true&include_all_commits=true">
-  <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&screen_effect=true&theme=blue_chill&pixelate_avatar=true&include_all_commits=true">
-</picture>
-
-<br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannerVelaF&layout=compact&theme=dark&border_color=22C55E&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF" height="150">
-  <img src="https://streak-stats.demolab.com/?user=DannerVelaF&theme=dark&border=22C55E&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" height="150">
+  <img src="https://streak-stats.demolab.com/?user=DannerVelaF&theme=dark&border=22C55E&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E">
 </p>
 
 <br>
