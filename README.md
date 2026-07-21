@@ -22,7 +22,9 @@
 
 ## 🌲 ABOUT ME
 
-<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/sqre/9a6c1d65-6aa2-42f3-9a39-91d9bac91497.gif" align="right" width="150" style="image-rendering: pixelated;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="320" style="image-rendering: pixelated;">
+</p>
 
 ```yaml
 name: Danner Alejandro Vela Fuentes
@@ -44,14 +46,7 @@ personal:
   frontend: React, Tailwind CSS, TypeScript
   backend: Laravel, Python
   data: pandas, numpy, Data Visualization
-  projects:
-    - Portafolio web fullstack
-    - Red social (React + Laravel)
-    - Clon Spotify (Angular + Laravel)
-    - Análisis de ventas (Python + Power BI)
 ```
-
-<br clear="right">
 
 ---
 
@@ -111,23 +106,6 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
   | ⚙️ **LazyVim-Setup** | Lua | Configuración personal de Neovim |
   
 </details>
-
-<br>
-
----
-
-## 🎵 NOW PLAYING
-
-<p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lmzhpy2migtudcggvvnrrth73y&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&bar_color=22C55E&border_color=22C55E" alt="Spotify">
-  </a>
-</p>
-
-> **Nota:** Reemplaza el `uid` con tu ID de Spotify. Consíguelo en:
-> 1. Ve a [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
-> 2. Conecta tu Spotify
-> 3. Copia tu UID
 
 <br>
 
