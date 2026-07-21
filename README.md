@@ -23,7 +23,7 @@
 ## 🌲 SOBRE MÍ
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="320" style="image-rendering: pixelated;">
+  <img src="https://github.com/ViratiAkiraNandhanReddy/pixel-art-readme-gifs/releases/download/v1.0.0/sqre/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8.gif" width="300" style="image-rendering: pixelated;">
 </p>
 
 ```yaml
@@ -122,7 +122,7 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannerVelaF&layout=compact&theme=dark&border_color=22C55E&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DannerVelaF&theme=dark&border=22C55E&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" height="150">
+  <img src="https://streak-stats.demolab.com/?user=DannerVelaF&theme=dark&border=22C55E&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" height="150">
 </p>
 
 <br>
@@ -145,8 +145,6 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/429496d3-aa08-4ce2-9c95-7dacf2d7f835.gif" alt="footer-forest" width="100%" style="image-rendering: pixelated;">
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=DannerVelaF&style=for-the-badge&color=22C55E" alt="Visitas">
   <br><br>
   <i>"Entre el código y los datos, construyo soluciones."</i>
