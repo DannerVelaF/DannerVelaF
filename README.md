@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=500&color=4ADE80&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Fullstack+Developer;Data+Analytics" alt="roles">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=500&color=4ADE80&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Desarrollador+Fullstack;Analista+de+Datos" alt="roles">
 </p>
 
 <br>
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌲 ABOUT ME
+## 🌲 SOBRE MÍ
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="320" style="image-rendering: pixelated;">
@@ -29,7 +29,7 @@
 ```yaml
 name: Danner Alejandro Vela Fuentes
 from: Perú
-role: Fullstack Developer & Data Analytics
+role: Desarrollador Fullstack & Analista de Datos
  
 work:
   title: Desarrollador Fullstack
@@ -50,7 +50,7 @@ personal:
 
 ---
 
-## 🎯 EXPERIENCE & FOCUS
+## 🎯 EXPERIENCIA Y ENFOQUE
 
 <img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" width="100%" style="image-rendering: pixelated;">
 
@@ -67,7 +67,7 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 
 ---
 
-## 🕹️ TECH ARSENAL
+## 🕹️ TECNOLOGÍAS
 
 <p align="center">
   <img src="https://bitbadges.vercel.app/badge/Java/ED8B00?logo=java&scale=md" alt="Java">
@@ -87,10 +87,10 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 
 ---
 
-## 📦 PROJECT LOG
+## 📦 PROYECTOS
 
-| Project | Stack | Description |
-|---------|-------|-------------|
+| Proyecto | Stack | Descripción |
+|----------|-------|-------------|
 | 🎵 **SpotifyClon** | Angular 19 + Laravel | Web app inspirada en Spotify con reproducción musical |
 | 💬 **SocialCode** | React + Inertia + Laravel | Red social estilo X para practicar frontend |
 | 📊 **Analisis_Ventas** | Python + Power BI | Dashboard interactivo de análisis de ventas |
@@ -101,8 +101,7 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
   <summary>📁 Ver más proyectos</summary>
   <br>
   
-  | Project | Stack | Description |
-  |---------|-------|-------------|
+  | Proyecto | Stack | Descripción |
   | ⚙️ **LazyVim-Setup** | Lua | Configuración personal de Neovim |
   
 </details>
@@ -111,7 +110,7 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 
 ---
 
-## 📊 LIVE STATS
+## 📊 ESTADÍSTICAS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&screen_effect=true&theme=blue_chill&pixelate_avatar=true&include_all_commits=true">
@@ -130,7 +129,7 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 
 ---
 
-## 📡 CONNECTION STATUS
+## 📡 CONEXIONES
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danner-alejandro-vela-fuentes-17a8b5242">
@@ -146,9 +145,9 @@ Desarrollador fullstack con experiencia en **sistemas de costos, cotizaciones y 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/51aaabf2-8d66-45f7-b310-c3522ab6b90c.gif" alt="footer-forest" width="100%" style="image-rendering: pixelated;">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/429496d3-aa08-4ce2-9c95-7dacf2d7f835.gif" alt="footer-forest" width="100%" style="image-rendering: pixelated;">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=DannerVelaF&style=for-the-badge&color=22C55E" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=DannerVelaF&style=for-the-badge&color=22C55E" alt="Visitas">
   <br><br>
   <i>"Entre el código y los datos, construyo soluciones."</i>
 </p>
