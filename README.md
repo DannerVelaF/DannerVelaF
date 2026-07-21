@@ -1,12 +1,17 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e1a,50:1a4a2a,100:2d6a3f&height=170&section=header&text=DANNER&fontSize=58&fontColor=00ff88&fontAlignY=38&desc=Fullstack%20Developer%20%C3%97%20Data%20Analytics&descAlignY=58&descSize=17&descColor=8fd6ab&animation=fadeIn" width="100%"/>
-
-<img src="https://pixel-profile.vercel.app/api/avatar?username=DannerVelaF&theme=fuji" width="120" alt="pixel avatar"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=580&lines=Backend%3A+Java+%2F+Spring+Boot+%2F+Kotlin;Frontend%3A+React+%2F+Tailwind+%2F+Laravel;Data%3A+Python+%2B+pandas+%2B+Power+BI;Actualmente+construyendo+el+ERP+de+Polybags" alt="typing-svg"/>
-
 </div>
+
+<table>
+<tr>
+<td width="20%" align="center" valign="middle">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&theme=fuji&screen_effect=false&dithering=true&hide=rank,stars,issues,prs,commits,contributions&include_all_commits=false&pixelate_avatar=true&background=%230a2e1a" width="120" alt="pixel avatar"/>
+</td>
+<td width="80%" valign="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=580&lines=Backend%3A+Java+%2F+Spring+Boot+%2F+Kotlin;Frontend%3A+React+%2F+Tailwind+%2F+Laravel;Data%3A+Python+%2B+pandas+%2B+Power+BI;Actualmente+construyendo+el+ERP+de+Polybags" alt="typing-svg"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -19,18 +24,30 @@
 
 <br/>
 
-## Polybags — Sistema ERP
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<div align="center">
+### Polybags — ERP
 
-<img src="https://img.shields.io/badge/🏆_ERP_POLYBAGS-00ff88?style=for-the-badge&labelColor=0a2e1a&color=1a4a2a"/>
-
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_ERP_POLYBAGS-00ff88?style=for-the-badge&labelColor=0a2e1a&color=1a4a2a"/>
+<br/>
 <img src="https://img.shields.io/badge/Log%C3%ADstica-0a2e1a?style=for-the-badge&logo=cargo&logoColor=00ff88"/>
 <img src="https://img.shields.io/badge/Compras-0a2e1a?style=for-the-badge&logo=cashapp&logoColor=00ff88"/>
+<br/>
 <img src="https://img.shields.io/badge/Predicci%C3%B3n_de_demanda-0a2e1a?style=for-the-badge&logo=chartdotjs&logoColor=00ff88"/>
 <img src="https://img.shields.io/badge/Reportes-0a2e1a?style=for-the-badge&logo=googlesheets&logoColor=00ff88"/>
 
-</div>
+</td>
+<td width="50%" valign="top" align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=DannerVelaF&show_icons=true&theme=transparent&bg_color=0a2e1a&title_color=00ff88&icon_color=00ff88&text_color=8fd6ab&border_color=1a4a2a&hide_border=true&hide=contribs" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -62,22 +79,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=DannerVelaF&theme=fuji&screen_effect=true&dithering=true&background=radial-gradient(circle+at+50%+50%,+%2300ff88+0%,+%230a2e1a+100%)" width="480"/>
-</div>
-
-<br/>
-
-## Now Playing
-
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0a2e1a&interchange=true&eq_color=00ff88" width="380"/>
-</div>
 
 <br/>
 
@@ -117,14 +118,30 @@ Herramienta de control de acceso a red y pool de IPs con interfaz nativa Win32.
 
 <br/>
 
-## Contacto
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<div align="center">
+### 🎵 Now Playing
 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0a2e1a&interchange=true&eq_color=00ff88" width="100%"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📡 Contacto
+
+<br/>
 <a href="https://linkedin.com/in/DannerVelaF"><img src="https://img.shields.io/badge/LinkedIn-0a2e1a?style=for-the-badge&logo=linkedin&logoColor=00ff88"/></a>
+<br/><br/>
 <a href="mailto:dannervelaf@gmail.com"><img src="https://img.shields.io/badge/Email-0a2e1a?style=for-the-badge&logo=gmail&logoColor=00ff88"/></a>
+<br/><br/>
 <a href="https://github.com/DannerVelaF"><img src="https://img.shields.io/badge/GitHub-0a2e1a?style=for-the-badge&logo=github&logoColor=00ff88"/></a>
 
-</div>
+</td>
+</tr>
+</table>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a3f,50:1a4a2a,100:0a2e1a&height=100&section=footer" width="100%"/>
+</div>
